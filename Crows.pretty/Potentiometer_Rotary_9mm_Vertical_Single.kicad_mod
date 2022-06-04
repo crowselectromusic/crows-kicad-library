@@ -1,4 +1,4 @@
-(footprint "RotaryPotVerticalSingle9mm" (version 20211014) (generator pcbnew)
+(footprint "RotaryPotentiometer_Rotary_9mm_Vertical_SinglePotVerticalSingle9mm" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 623E1D96)
   (descr "Potentiometer, vertical, Bourns PTV09A-1 Single, 9mm, rv09, http://www.bourns.com/docs/Product-Datasheets/ptv09.pdf")
@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 79631605-53d7-4a2c-a598-4bd2bb6236df)
   )
-  (fp_text value "RotaryPotVerticalSingle9mm" (at 7.5 -2.5 90) (layer "F.Fab")
+  (fp_text value "RotaryPPotentiometer_Rotary_9mm_Vertical_SingleotVerticalSingle9mm" (at 7.5 -2.5 90) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp cabeb8b9-f7bd-4433-8bef-5c48199fcb55)
   )
@@ -39,7 +39,7 @@
   (pad "1" thru_hole circle (at 0 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 949aa8c2-f5f9-4568-ab7c-d18c65e9ff79))
   (pad "2" thru_hole circle (at 0 -2.5) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 3b527181-df2b-41e7-a4b6-35678fae3ff9))
   (pad "3" thru_hole circle (at 0 -5) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 772d8e14-b139-489e-b703-7beafe1d0d5c))
-  (model "${KIPRJMOD}/crows-kicad-library/Crows.pretty/models/RotaryPotVerticalSingle9mm.stp"
+  (model "${KIPRJMOD}/crows-kicad-library/Crows.pretty/models/Potentiometer_Rotary_9mm_Vertical_Single.stp"
     (offset (xyz 7 2.5 6))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 -90))
