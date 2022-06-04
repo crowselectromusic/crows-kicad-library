@@ -27,4 +27,9 @@
   (pad "R" thru_hole oval (at 0 -4) (size 3.3 2) (drill oval 2.3 0.6) (layers *.Cu *.Mask) (tstamp 707b76c2-88ca-427a-90fe-e75d06ef70f7))
   (pad "S" thru_hole oval (at 3.7 0 90) (size 3.3 2) (drill oval 2.3 0.6) (layers *.Cu *.Mask) (tstamp 0e9eb957-f44a-48b5-8fda-b2a07f800229))
   (pad "T" thru_hole oval (at 0 4) (size 3.3 2) (drill oval 2.3 0.6) (layers *.Cu *.Mask) (tstamp 3660c458-3236-44c8-a20b-d61d20185f12))
+  (model "${KIPRJMOD}/crows-kicad-library/Crows.pretty/models/pj341.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 0))
+  )
 )
