@@ -1,4 +1,4 @@
-(footprint "SW_Toggle_Blue_wSlots" (version 20211014) (generator pcbnew)
+(footprint "Switch_Toggle_MTS_Blue_wSlots" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 62096272)
   (descr "SW Toggle")
@@ -42,7 +42,7 @@
   (pad "1" thru_hole oval (at -4.45 0) (size 3.2 5) (drill oval 1 2.3) (layers *.Cu) (tstamp b31b5b1d-15a2-4a9c-abdc-69a8f1217b06))
   (pad "2" thru_hole oval (at 0 0) (size 3.2 5) (drill oval 1 2.3) (layers *.Cu) (tstamp 5a373d22-0add-408c-a4cd-1fc9af88d75c))
   (pad "3" thru_hole oval (at 4.45 0) (size 3.2 5) (drill oval 1 2.3) (layers *.Cu) (tstamp c62d0341-c4dd-4eaf-b091-59e594a4aa8e))
-  (model "${KIPRJMOD}/crows-kicad-library/Crows.pretty/models/SW_Toggle_Blue_R0.step"
+  (model "${KIPRJMOD}/crows-kicad-library/Crows.pretty/models/Switch_Toggle_MTS_Blue_R0.step"
     (offset (xyz -6.5 4 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

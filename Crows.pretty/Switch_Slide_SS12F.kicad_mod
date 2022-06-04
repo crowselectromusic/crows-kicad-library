@@ -1,4 +1,4 @@
-(footprint "Slide_Switch_SS12F" (version 20211014) (generator pcbnew)
+(footprint "Switch_Slide_SS12F" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 623CE88C)
   (attr through_hole)
