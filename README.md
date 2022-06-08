@@ -2,6 +2,8 @@
 
 A library of parts for stuff we've made or are making.
 
+USB-C-Power-tester.pretty is via [jenschr/USB-C-Connectors](https://github.com/jenschr/USB-C-Connectors).
+
 ## Usage:
 
 It's important that this is used as a submodule, and the submodule is placed in the same directory as the .kicad_pro, since the 3d models are referenced relative to your project file, not relative to this library.
