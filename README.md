@@ -10,7 +10,7 @@ It's important that this is used as a submodule, and the submodule is placed in 
 
 run this next to your kicad project:
 
-    git submodule add https://github.com/crowselectromusic/crows-kicad-library
+    git submodule add git@github.com:crowselectromusic/crows-kicad-library.git
 
 then add the library as a project specific library using the path:
 
