@@ -53,6 +53,7 @@
   (pad "" np_thru_hole circle (at 5.35 -2.45) (size 2.7 2.7) (drill 1.7) (layers F&B.Cu *.Mask) (tstamp 2d650728-4d52-4ea1-8263-05e26d10856a))
   (pad "" np_thru_hole circle (at 38.15 -2.45) (size 2.7 2.7) (drill 1.7) (layers F&B.Cu *.Mask) (tstamp e41ffe01-f09d-4c34-9b9d-72c572ac9976))
   (pad "1" thru_hole rect (at 0 0) (size 1.75 1.75) (drill 1.2) (layers *.Cu *.Mask) (tstamp 20457dde-021f-42d6-ba3c-8925e799e225))
+  (pad "2" thru_hole circle (at 43.5 3.5) (size 1.75 1.75) (drill 1.2) (layers *.Cu *.Mask) (tstamp 1a056262-1d0d-4f9d-afc0-26acedd6da52))
   (pad "2" thru_hole circle (at 0 3.5) (size 1.75 1.75) (drill 1.2) (layers *.Cu *.Mask) (tstamp c86dda65-dc1c-4a4a-aaf3-fd9961bfc692))
   (pad "3" thru_hole circle (at 43.5 0) (size 1.75 1.75) (drill 1.2) (layers *.Cu *.Mask) (tstamp 43c39000-811a-444b-9118-23c2ebdb7ec8))
   (model "${KIPRJMOD}/crows-kicad-library/Crows.pretty/models/PTA3043.stp"
